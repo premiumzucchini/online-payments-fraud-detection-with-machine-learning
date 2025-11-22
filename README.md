@@ -125,11 +125,10 @@ Refrence : The code in this project was inspired by the [article](https://thecle
 
 ## About the Maintainer
 
-This project is currently maintained by Mustaq Sohail Shaik.
+This project is currently maintained by Sanjeev Preetam Karri.
 
-Mustaq is a Software Engineer with 3+ years of experience in machine learning, data engineering, and scalable software design. He specializes in leveraging Python, TensorFlow, and PyTorch to build and deploy production-grade AI solutions. His key skills include Pandas, NumPy, and Scikit-learn, which are integral to projects like this.
+ Sanjeev is aData Analyst with 4+ years of experience architecting end-to-end data solutions, developing advanced machine learning models, and orchestrating scalable analytics workflows. Demonstrated success in deploying AI-driven systems using Python, PyTorch, and cloud technologies (AWS, GCP) to derive meaningful insights and accelerate business intelligence. Adept at integrating data engineering, model optimization, and statistical inference to solve complex business challenges.
 
 Connect with Mustaq:
-*   **Email**: sohailshaik8255@gmail.com
-*   **LinkedIn**: https://www.linkedin.com/in/mustaq-sohail-shaik-2224482a8/
-*   **GitHub**: Mustaq Sohail Shaik
+*   **Email**: karrisanjeevpreetam@gmail.com
+*   **GitHub**: premiumzucchini
