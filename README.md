@@ -129,6 +129,6 @@ This project is currently maintained by Sanjeev Preetam Karri.
 
  Sanjeev is aData Analyst with 4+ years of experience architecting end-to-end data solutions, developing advanced machine learning models, and orchestrating scalable analytics workflows. Demonstrated success in deploying AI-driven systems using Python, PyTorch, and cloud technologies (AWS, GCP) to derive meaningful insights and accelerate business intelligence. Adept at integrating data engineering, model optimization, and statistical inference to solve complex business challenges.
 
-Connect with Mustaq:
+Connect with Sanjeev:
 *   **Email**: karrisanjeevpreetam@gmail.com
 *   **GitHub**: premiumzucchini
